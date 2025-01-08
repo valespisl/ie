@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>preie</title>
+    <link href="https://valespisl.github.io/ie/feed.xml" rel="self" />
+    <link href="https://valespisl.github.io/ie" />
+    <updated>2025-01-08T13:40:04-06:00</updated>
+    <author>
+        <name>val</name>
+    </author>
+    <id>https://valespisl.github.io/ie</id>
+
+    <entry>
+        <title>post uno</title>
+        <author>
+            <name>val</name>
+        </author>
+        <link href="https://valespisl.github.io/ie/post-uno.html"/>
+        <id>https://valespisl.github.io/ie/post-uno.html</id>
+
+        <updated>2025-01-08T13:40:04-06:00</updated>
+            <summary>
+                <![CDATA[
+                    a ver
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    a ver
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
