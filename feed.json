@@ -14,14 +14,14 @@
             "url": "https://valespisl.github.io/ie/post-uno.html",
             "title": "post uno",
             "summary": "a ver",
-            "content_html": "\n  <p>\n    a ver\n  </p>",
+            "content_html": "\n  <p>\n    a ver\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://valespisl.github.io/ie/media/posts/1/wallhaven-o52567.jpg\" height=\"1200\" width=\"1700\" alt=\"\"  sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://valespisl.github.io/ie/media/posts/1/responsive/wallhaven-o52567-xs.jpg 640w ,https://valespisl.github.io/ie/media/posts/1/responsive/wallhaven-o52567-sm.jpg 768w ,https://valespisl.github.io/ie/media/posts/1/responsive/wallhaven-o52567-md.jpg 1024w ,https://valespisl.github.io/ie/media/posts/1/responsive/wallhaven-o52567-lg.jpg 1366w ,https://valespisl.github.io/ie/media/posts/1/responsive/wallhaven-o52567-xl.jpg 1600w ,https://valespisl.github.io/ie/media/posts/1/responsive/wallhaven-o52567-2xl.jpg 1920w\">\n      \n    </figure>",
             "author": {
                 "name": "val"
             },
             "tags": [
             ],
             "date_published": "2025-01-08T13:40:04-06:00",
-            "date_modified": "2025-01-08T13:40:04-06:00"
+            "date_modified": "2025-01-08T13:51:38-06:00"
         }
     ]
 }
