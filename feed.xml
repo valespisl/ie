@@ -1,39 +1,108 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>preie</title>
+    <title>ie</title>
     <link href="https://valespisl.github.io/ie/feed.xml" rel="self" />
     <link href="https://valespisl.github.io/ie" />
-    <updated>2025-01-08T13:51:38-06:00</updated>
+    <updated>2025-01-09T12:34:29-06:00</updated>
     <author>
         <name>val</name>
     </author>
     <id>https://valespisl.github.io/ie</id>
 
     <entry>
-        <title>post uno</title>
+        <title>Comunicaciones</title>
         <author>
             <name>val</name>
         </author>
-        <link href="https://valespisl.github.io/ie/post-uno.html"/>
-        <id>https://valespisl.github.io/ie/post-uno.html</id>
+        <link href="https://valespisl.github.io/ie/comunicaciones.html"/>
+        <id>https://valespisl.github.io/ie/comunicaciones.html</id>
+        <media:content url="https://valespisl.github.io/ie/media/posts/9/michael-jiang-RMavaARV8Rs-unsplash.jpg" medium="image" />
 
-        <updated>2025-01-08T13:40:04-06:00</updated>
+        <updated>2025-01-09T12:32:04-06:00</updated>
             <summary>
                 <![CDATA[
-                    a ver
+                        <img src="https://valespisl.github.io/ie/media/posts/9/michael-jiang-RMavaARV8Rs-unsplash.jpg" alt="" />
+                    En la Sección de Comunicaciones del Departamento de Ingeniería Eléctrica, se ofrecen programas de estudio conducentes a la obtención de los grados de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                
-  <p>
-    a ver
-  </p>
+                    <p><img src="https://valespisl.github.io/ie/media/posts/9/michael-jiang-RMavaARV8Rs-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                <p>En la Sección de Comunicaciones del Departamento de Ingeniería Eléctrica,  se ofrecen programas de estudio conducentes a la obtención de los grados de Maestría y Doctorado en Ciencias, donde el estudiante tiene la oportunidad de profundizar y extender sus conocimientos y desarrollar habilidades que le permitan ejercer de manera más eficaz actividades científicas, tecnológicas y docentes. Este programa se basa en una preparación completa en los fundamentos de las comunicaciones y cubre áreas de aplicación tales como: Redes Telefónicas, Fibras Ópticas, Comunicaciones Terrestres de  Microondas, Comunicaciones Satelitales, Procesamiento Digital de Señales, Comunicaciones Móviles y Redes de Computadoras.</p>
+<h3 class="_7XqAY8_A __pvxhZg9" data-id="__pvxhZg9"><span class="_VWvqNvR9 _GB54hZog _ZGwmb_O6" data-id="_GB54hZog" data-name="text">Nueva Orientación : Redes y Sistemas Inteligentes (RSI)</span></h3>
+<p class="_7XqAY8_A __pvxhZg9" data-id="__pvxhZg9"><span class="_VWvqNvR9 _1BoMhkM3 _ZGwmb_O6" data-id="_1BoMhkM3" data-name="text">Los sistemas inteligentes surgen de la conjunción de las disciplinas de las  Tecnologías de la Información y las Comunicaciones, la cual continúa creando Conceptos nuevos y consolidando algunos otros relativamente recientes. Esta  dinámica trae consigo el reto de diseñar e implementar sistemas cooperativos  autónomos. Para el desarrollo de este tipo de sistemas, la Inteligencia Artificial juega un rol primordial, y la importancia de ésta ha ido en crecimiento en los últimos años.</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Mecatronica</title>
+        <author>
+            <name>val</name>
+        </author>
+        <link href="https://valespisl.github.io/ie/mecatronica.html"/>
+        <id>https://valespisl.github.io/ie/mecatronica.html</id>
+        <media:content url="https://valespisl.github.io/ie/media/posts/8/thisisengineering-fr5h_07OrPI-unsplash.jpg" medium="image" />
 
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://valespisl.github.io/ie/media/posts/1/wallhaven-o52567.jpg" height="1200" width="1700" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://valespisl.github.io/ie/media/posts/1/responsive/wallhaven-o52567-xs.jpg 640w ,https://valespisl.github.io/ie/media/posts/1/responsive/wallhaven-o52567-sm.jpg 768w ,https://valespisl.github.io/ie/media/posts/1/responsive/wallhaven-o52567-md.jpg 1024w ,https://valespisl.github.io/ie/media/posts/1/responsive/wallhaven-o52567-lg.jpg 1366w ,https://valespisl.github.io/ie/media/posts/1/responsive/wallhaven-o52567-xl.jpg 1600w ,https://valespisl.github.io/ie/media/posts/1/responsive/wallhaven-o52567-2xl.jpg 1920w">
-      
-    </figure>
+        <updated>2025-01-09T12:24:25-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://valespisl.github.io/ie/media/posts/8/thisisengineering-fr5h_07OrPI-unsplash.jpg" alt="" />
+                    La Mecatrónica es una disciplina que surgió en los años 70's y se ubica en las fronteras tradicionales de diferentes ramas de la&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://valespisl.github.io/ie/media/posts/8/thisisengineering-fr5h_07OrPI-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                <p>La Mecatrónica es una disciplina que surgió en los años 70's y se ubica en las fronteras tradicionales de diferentes ramas de la Ingeniería. La mecatrónica se define como la combinación sinergética de la Ingeniería Mecánica, Electrónica, Control Automático y Ciencias de la Computación, orientada hacia el diseño de sistemas y procesos electromecánicos inteligentes.</p>
+<p>Su planta académica es de 10 investigadores con grado de Doctor en Ciencias de Ingeniería Eléctrica, miembros del Sistema Nacional de Investigadores (SNI).</p>
+<p>Todos los Programas de estudio se ofrecen sólo en la modalidad de tiempo completo.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Bioelectrónica</title>
+        <author>
+            <name>val</name>
+        </author>
+        <link href="https://valespisl.github.io/ie/bioelectronica.html"/>
+        <id>https://valespisl.github.io/ie/bioelectronica.html</id>
+        <media:content url="https://valespisl.github.io/ie/media/posts/7/cdc-p33DqVXhWvs-unsplash.jpg" medium="image" />
+
+        <updated>2025-01-09T12:22:18-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://valespisl.github.io/ie/media/posts/7/cdc-p33DqVXhWvs-unsplash.jpg" alt="" />
+                    La Bioelectrónica representa una parte del conocimiento tecnológico de la instrumentación. Es utilizada en estudio y desarrollo de instrumental electrónico para diagnóstico, tratamiento&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://valespisl.github.io/ie/media/posts/7/cdc-p33DqVXhWvs-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                <p>La Bioelectrónica representa una parte del conocimiento tecnológico de la instrumentación. Es utilizada en estudio y desarrollo de instrumental electrónico para diagnóstico, tratamiento e investigación en las áreas relacionadas con la biología y la salud.<br><br>La Sección de Bioelectrónica fue creada en el año de 1971 por el Dr. Joaquín Remolina López. En sus inicios, la Sección fue concebida por el Dr. Remolina López como un grupo de investigación dedicado a la aplicación de conceptos provenientes de la Ingeniería Electrónica en la solución de problemas en el campo de la Biología y la Medicina. De esta forma, la principal actividad tecnológica de la sección por más de dos décadas fue desarrollo de instrumentos electrónicos utilizados en los campos mencionados. Cabe destacar que paralelamente a la actividad tecnológica, la sección creó la primera Maestría en Ciencias con especialidad en Bioelectrónica de México.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Electronica del estado sólido</title>
+        <author>
+            <name>val</name>
+        </author>
+        <link href="https://valespisl.github.io/ie/electronica-del-estado-solido.html"/>
+        <id>https://valespisl.github.io/ie/electronica-del-estado-solido.html</id>
+        <media:content url="https://valespisl.github.io/ie/media/posts/6/louis-reed-wSTCaQpiLtc-unsplash.jpg" medium="image" />
+
+        <updated>2025-01-09T12:20:55-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://valespisl.github.io/ie/media/posts/6/louis-reed-wSTCaQpiLtc-unsplash.jpg" alt="" />
+                    En México la Sección de Electrónica del Estado Sólido (SEES) del Departamento de Ingeniería Eléctrica es una referencia sobre los Circuitos en Alta&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://valespisl.github.io/ie/media/posts/6/louis-reed-wSTCaQpiLtc-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                <p>En México la Sección de Electrónica del Estado Sólido (SEES) del Departamento de Ingeniería Eléctrica es una referencia sobre los Circuitos en Alta Escala de Integracion (VLSI), los Semiconductores y la Nanotecnología. En la SEES se instaló la Planta Piloto de Celdas Solares en los 70's, un proyecto científico-tecnológico exitoso sobre los Semiconductores a nivel mundial: Se crecieron Monocristales de Silicio, se fabricaron las Celdas Solares y se instalaron Modulos Fotovoltaicos en diversas partes del País. Esta experiencia nos permite hoy desarrollar diversos proyectos en Nanotecnologia, así como en el desarrollo de Celdas Solares y Dispositivos de Almacenamiento de Energia con materiales nanoestructurados.</p>
+<p>La Sección de Electrónica del Estado Sólido (SEES) realiza investigación en Materiales Avanzados para la Electrónica, Dispositivos Semiconductores, Circuitos Integrados, Nanoelectrónica, y diferentes aplicaciones de la Energía Solar. La SEES inició sus actividades desde hace mas de 55 años, cuando se creó el CINVESTAV en 1961. </p>
             ]]>
         </content>
     </entry>
