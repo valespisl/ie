@@ -5,7 +5,7 @@
     "home_page_url": "https://valespisl.github.io/ie",
     "feed_url": "https://valespisl.github.io/ie/feed.json",
     "user_comment": "",
-    "icon": "https://valespisl.github.io/ie/media/website/ielogo.png",
+    "icon": "https://valespisl.github.io/ie/media/website/ielogo100x100.png",
     "author": {
         "name": "val"
     },
@@ -14,7 +14,7 @@
             "id": "https://valespisl.github.io/ie/comunicaciones.html",
             "url": "https://valespisl.github.io/ie/comunicaciones.html",
             "title": "Comunicaciones",
-            "summary": "En la Sección de Comunicaciones del Departamento de Ingeniería Eléctrica, se ofrecen programas de estudio conducentes a la obtención de los grados de&hellip;",
+            "summary": "En la Sección de Comunicaciones del Departamento de Ingeniería Eléctrica, se ofrecen programas de estudio conducentes a la obtención de los grados de Maestría y Doctorado en Ciencias, donde el&hellip;",
             "content_html": "<p>En la Sección de Comunicaciones del Departamento de Ingeniería Eléctrica,  se ofrecen programas de estudio conducentes a la obtención de los grados de Maestría y Doctorado en Ciencias, donde el estudiante tiene la oportunidad de profundizar y extender sus conocimientos y desarrollar habilidades que le permitan ejercer de manera más eficaz actividades científicas, tecnológicas y docentes. Este programa se basa en una preparación completa en los fundamentos de las comunicaciones y cubre áreas de aplicación tales como: Redes Telefónicas, Fibras Ópticas, Comunicaciones Terrestres de  Microondas, Comunicaciones Satelitales, Procesamiento Digital de Señales, Comunicaciones Móviles y Redes de Computadoras.</p>\n<h3 class=\"_7XqAY8_A __pvxhZg9\" data-id=\"__pvxhZg9\"><span class=\"_VWvqNvR9 _GB54hZog _ZGwmb_O6\" data-id=\"_GB54hZog\" data-name=\"text\">Nueva Orientación : Redes y Sistemas Inteligentes (RSI)</span></h3>\n<p class=\"_7XqAY8_A __pvxhZg9\" data-id=\"__pvxhZg9\"><span class=\"_VWvqNvR9 _1BoMhkM3 _ZGwmb_O6\" data-id=\"_1BoMhkM3\" data-name=\"text\">Los sistemas inteligentes surgen de la conjunción de las disciplinas de las  Tecnologías de la Información y las Comunicaciones, la cual continúa creando Conceptos nuevos y consolidando algunos otros relativamente recientes. Esta  dinámica trae consigo el reto de diseñar e implementar sistemas cooperativos  autónomos. Para el desarrollo de este tipo de sistemas, la Inteligencia Artificial juega un rol primordial, y la importancia de ésta ha ido en crecimiento en los últimos años.</span></p>",
             "image": "https://valespisl.github.io/ie/media/posts/9/michael-jiang-RMavaARV8Rs-unsplash.jpg",
             "author": {
@@ -29,7 +29,7 @@
             "id": "https://valespisl.github.io/ie/mecatronica.html",
             "url": "https://valespisl.github.io/ie/mecatronica.html",
             "title": "Mecatronica",
-            "summary": "La Mecatrónica es una disciplina que surgió en los años 70's y se ubica en las fronteras tradicionales de diferentes ramas de la&hellip;",
+            "summary": "La Mecatrónica es una disciplina que surgió en los años 70's y se ubica en las fronteras tradicionales de diferentes ramas de la Ingeniería. La mecatrónica se define como la&hellip;",
             "content_html": "<p>La Mecatrónica es una disciplina que surgió en los años 70's y se ubica en las fronteras tradicionales de diferentes ramas de la Ingeniería. La mecatrónica se define como la combinación sinergética de la Ingeniería Mecánica, Electrónica, Control Automático y Ciencias de la Computación, orientada hacia el diseño de sistemas y procesos electromecánicos inteligentes.</p>\n<p>Su planta académica es de 10 investigadores con grado de Doctor en Ciencias de Ingeniería Eléctrica, miembros del Sistema Nacional de Investigadores (SNI).</p>\n<p>Todos los Programas de estudio se ofrecen sólo en la modalidad de tiempo completo.</p>",
             "image": "https://valespisl.github.io/ie/media/posts/8/thisisengineering-fr5h_07OrPI-unsplash.jpg",
             "author": {
@@ -44,7 +44,7 @@
             "id": "https://valespisl.github.io/ie/bioelectronica.html",
             "url": "https://valespisl.github.io/ie/bioelectronica.html",
             "title": "Bioelectrónica",
-            "summary": "La Bioelectrónica representa una parte del conocimiento tecnológico de la instrumentación. Es utilizada en estudio y desarrollo de instrumental electrónico para diagnóstico, tratamiento&hellip;",
+            "summary": "La Bioelectrónica representa una parte del conocimiento tecnológico de la instrumentación. Es utilizada en estudio y desarrollo de instrumental electrónico para diagnóstico, tratamiento e investigación en las áreas relacionadas con&hellip;",
             "content_html": "<p>La Bioelectrónica representa una parte del conocimiento tecnológico de la instrumentación. Es utilizada en estudio y desarrollo de instrumental electrónico para diagnóstico, tratamiento e investigación en las áreas relacionadas con la biología y la salud.<br><br>La Sección de Bioelectrónica fue creada en el año de 1971 por el Dr. Joaquín Remolina López. En sus inicios, la Sección fue concebida por el Dr. Remolina López como un grupo de investigación dedicado a la aplicación de conceptos provenientes de la Ingeniería Electrónica en la solución de problemas en el campo de la Biología y la Medicina. De esta forma, la principal actividad tecnológica de la sección por más de dos décadas fue desarrollo de instrumentos electrónicos utilizados en los campos mencionados. Cabe destacar que paralelamente a la actividad tecnológica, la sección creó la primera Maestría en Ciencias con especialidad en Bioelectrónica de México.</p>",
             "image": "https://valespisl.github.io/ie/media/posts/7/cdc-p33DqVXhWvs-unsplash.jpg",
             "author": {
@@ -59,7 +59,7 @@
             "id": "https://valespisl.github.io/ie/electronica-del-estado-solido.html",
             "url": "https://valespisl.github.io/ie/electronica-del-estado-solido.html",
             "title": "Electronica del estado sólido",
-            "summary": "En México la Sección de Electrónica del Estado Sólido (SEES) del Departamento de Ingeniería Eléctrica es una referencia sobre los Circuitos en Alta&hellip;",
+            "summary": "En México la Sección de Electrónica del Estado Sólido (SEES) del Departamento de Ingeniería Eléctrica es una referencia sobre los Circuitos en Alta Escala de Integracion (VLSI), los Semiconductores y&hellip;",
             "content_html": "<p>En México la Sección de Electrónica del Estado Sólido (SEES) del Departamento de Ingeniería Eléctrica es una referencia sobre los Circuitos en Alta Escala de Integracion (VLSI), los Semiconductores y la Nanotecnología. En la SEES se instaló la Planta Piloto de Celdas Solares en los 70's, un proyecto científico-tecnológico exitoso sobre los Semiconductores a nivel mundial: Se crecieron Monocristales de Silicio, se fabricaron las Celdas Solares y se instalaron Modulos Fotovoltaicos en diversas partes del País. Esta experiencia nos permite hoy desarrollar diversos proyectos en Nanotecnologia, así como en el desarrollo de Celdas Solares y Dispositivos de Almacenamiento de Energia con materiales nanoestructurados.</p>\n<p>La Sección de Electrónica del Estado Sólido (SEES) realiza investigación en Materiales Avanzados para la Electrónica, Dispositivos Semiconductores, Circuitos Integrados, Nanoelectrónica, y diferentes aplicaciones de la Energía Solar. La SEES inició sus actividades desde hace mas de 55 años, cuando se creó el CINVESTAV en 1961. </p>",
             "image": "https://valespisl.github.io/ie/media/posts/6/louis-reed-wSTCaQpiLtc-unsplash.jpg",
             "author": {
